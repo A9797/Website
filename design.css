@@ -1,0 +1,23 @@
+h2 {
+ color:green;
+}
+p{
+  Color:red;
+}
+.Ohne-punkte{
+  list-style: none;
+}
+li{
+  color: black;
+}
+body{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url('mountain.jpg');
+}
+nav a {
+  text-decoration: none;
+  display: inline-flex;
+  padding-left: 20px
+
+}
